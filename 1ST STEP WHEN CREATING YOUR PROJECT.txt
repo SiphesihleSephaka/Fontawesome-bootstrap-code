@@ -1,6 +1,0 @@
-1ST STEP WHEN CREATING YOUR PROJECT: YOU NEED TO CREATE A WIREFRAME, TO PLAN WHAT PAGES YOU GOING TO INCLUDE IN YOU PROJECT. (its like figma!)/invision
-
-. Home page (SIPHESIHLE SEPHAKA) Front end developer based in SA
-. About
-. My work
-. Contact 
